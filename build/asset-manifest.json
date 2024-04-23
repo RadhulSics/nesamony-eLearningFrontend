@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/projects/e_learning/static/css/main.632ccf27.css",
+    "main.js": "/projects/e_learning/static/js/main.75a7712b.js",
+    "static/media/carousel-1.jpg": "/projects/e_learning/static/media/carousel-1.71511b8e23bea487043e.jpg",
+    "static/media/mainicon.png": "/projects/e_learning/static/media/mainicon.c23f3368d5c1350ef4c0.png",
+    "static/media/Teacher.jpg": "/projects/e_learning/static/media/Teacher.fd6453f2c9051cec766f.jpg",
+    "static/media/carousel-3.jpg": "/projects/e_learning/static/media/carousel-3.3000132168fd7cf8827b.jpg",
+    "static/media/Parent.jpeg": "/projects/e_learning/static/media/Parent.6f9ead6bd58e09d5b28c.jpeg",
+    "static/media/carousel-2.jpg": "/projects/e_learning/static/media/carousel-2.3c715ae8bd7b5482638d.jpg",
+    "static/media/about.jpg": "/projects/e_learning/static/media/about.b0b9acbdbe9e8636632b.jpg",
+    "static/media/Student.jpg": "/projects/e_learning/static/media/Student.b8309614cd27bbf00b2b.jpg",
+    "index.html": "/projects/e_learning/index.html",
+    "main.632ccf27.css.map": "/projects/e_learning/static/css/main.632ccf27.css.map",
+    "main.75a7712b.js.map": "/projects/e_learning/static/js/main.75a7712b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.632ccf27.css",
+    "static/js/main.75a7712b.js"
+  ]
+}
